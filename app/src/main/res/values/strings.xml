@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">SampleAAC</string>
     <string name="action_settings">Settings</string>
+
+    <string name="FACEBOOK_APP_ID">386159748809861</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">5c587e691244919a3587c3a5ccadddfd</string>
+    <string name="ACCOUNT_KIT_APP_SECRET">20e16017a70efd3147032aae8cd69356</string>
 </resources>
